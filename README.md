@@ -4,7 +4,7 @@ A QGIS plugin that allows users to select a specific geographical area on the QG
 
 ## Installation
 
-1- Download the plugin from the release page
+1- Download the plugin from the release page<br />
 2- In QGIS, go to Plugins > Manage and Install Plugins
 3- Select Install from ZIP and choose the downloaded file
 4- The plugin should now be installed and can be found in the Plugins menu
